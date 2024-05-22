@@ -27,5 +27,7 @@
 ![](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=white)
 ![](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![](https://img.shields.io/badge/Looker-000000?style=flat&logo=looker&logoColor=white)
+![](https://img.shields.io/badge/Statistics-F05032?style=flat&logoColor=white)
+![](https://img.shields.io/badge/Azure-2496ED?style=flat&logo=mircosoftazure&logoColor=white)
 
 
