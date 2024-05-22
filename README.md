@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @kamaliravi31 !
 
+# 👋 Hello, I'm Kamali !
 
+## 🚀 Data Scientist focusing on applied statistics
 
-## 💼 Technical Skills
+### 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
